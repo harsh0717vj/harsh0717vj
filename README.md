@@ -13,11 +13,12 @@
 ---
 
 ### About Me  
-I'm a first-year CSE student passionate about technology, coding, and problem-solving.  
-Currently learning C Programming and building my foundations in computer science.
-
-
-
+👋 Hi, I'm [Harsh Vardhan]!
+🎓 B.Tech student in Computer Science & Engineering
+💻 Passionate about coding, problem-solving, and learning new technologies
+🌱 Currently learning C, and the basics of web development
+🔧 Exploring Data Structures, Algorithms
+📚 Always excited to collaborate on beginner-friendly projects and grow with the community
 ---
 
 ### Tech Stack  
@@ -27,12 +28,13 @@ Currently learning C Programming and building my foundations in computer science
 ---
 
 ### 📊 GitHub Stats  
-![Harsh Vardhan's GitHub stats](https://github-readme-stats.vercel.app/apiharsh0717vj?username=&show_icons=true&theme=tokyonight)
+![Harsh Vardhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh0717vj&show_icons=true&theme=tokyonight)
+
 ---
 ### 📈 GitHub Contributions
 
 ![Harsh's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=harsh0717vj&theme=react-dark&hide_border=true)
----
+
 ### 👨‍💻 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh0717vj&layout=compact&theme=tokyonight)
 ---
