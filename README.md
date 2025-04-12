@@ -4,7 +4,7 @@
 
 
 
-# Hi 👋, I'm Harsh Vardhan  
+# Hi 👋, I'm Harsh Vardhan 
 ### A Passionate Learner | Future Software Engineer | C Programming Enthusiast
 ---
 [LinkedIn](https://www.linkedin.com/in/harsh-vardhan-b6a912325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
