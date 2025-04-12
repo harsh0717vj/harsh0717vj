@@ -7,8 +7,8 @@
 # Hi 👋, I'm Harsh Vardhan  
 ### A Passionate Learner | Future Software Engineer | C Programming Enthusiast
 ---
-[![LinkedIn](https://www.linkedin.com/in/harsh-vardhan-b6a912325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-)
+[LinkedIn](https://www.linkedin.com/in/harsh-vardhan-b6a912325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 ---
 
@@ -16,9 +16,7 @@
 I'm a first-year CSE student passionate about technology, coding, and problem-solving.  
 Currently learning C Programming and building my foundations in computer science.
 
-- 🔭 I’m working on: Strengthening my logic-building skills  
-- 🌱 I’m currently learning: C programming (arrays, loops, structures ,data structures)  
-- ⚡ Fun fact: I do push-ups to debug my brain  
+
 
 ---
 
