@@ -13,7 +13,7 @@
 ---
 
 ### About Me  
-👋 Hi, I'm [Harsh Vardhan]!
+👋 Hi, I'm Harsh Vardhan!
 🎓 B.Tech student in Computer Science & Engineering
 💻 Passionate about coding, problem-solving, and learning new technologies
 🌱 Currently learning C, and the basics of web development
@@ -64,10 +64,10 @@ Feel free to check out my repositories, suggest ideas, or just drop a ⭐️ if 
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=gyan-prakash-007&label=Profile+Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=harsh0717vj&label=Profile+Views&color=0e75b6&style=flat)
 
-![GitHub Followers](https://img.shields.io/github/followers/gyan-prakash-007?label=Followers&style=flat&color=0e75b6)
+![GitHub Followers](https://img.shields.io/github/followers/harsh0717vj?label=Followers&style=flat&color=0e75b6)
 
 
 
-![GitHub Stars](https://img.shields.io/github/stars/gyan-prakash-007?affiliations=OWNER&label=Stars&style=flat&color=0e75b6)
+![GitHub Stars](https://img.shields.io/github/stars/harsh0717vj?affiliations=OWNER&label=Stars&style=flat&color=0e75b6)
