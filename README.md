@@ -43,11 +43,13 @@
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=harsh0717vj&theme=react-dark&hide_border=true)
 
 ---
+  
+### 🔥 GitHub Streak
 
-### 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harsh0717vj&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=harsh0717vj&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Harsh Vardhan's GitHub Streak" />
 </p>
+
 
 ---
 
