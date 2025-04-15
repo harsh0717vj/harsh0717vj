@@ -46,9 +46,8 @@
   
 ### 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=harsh0717vj&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Harsh Vardhan's GitHub Streak" />
-</p>
+![Harsh Vardhan's GitHub Streak](https://streak-stats.demolab.com/?user=harsh0717vj&theme=tokyonight&hide_border=true)
+
 
 
 ---
