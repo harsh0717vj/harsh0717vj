@@ -1,83 +1,76 @@
-<!-- Profile README -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=👋+Hey+Folks!+I'm+Harsh+Vardhan;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+</h1>
 
-<h1 align="center">👋 Hey folks, I'm Harsh Vardhan</h1>
-<p align="center">
-  🚀 CSE Student | 💻 Web Developer | 📊 DSA Enthusiast | 🌟 Lifelong Learner
+---
+
+## 🌟 About Me
+- 🎓 B.Tech CSE Student  
+- 💻 Passionate about **coding**, **problem-solving**, and **learning new technologies**  
+- 🌱 Currently mastering **Data Structures & Algorithms in C**, learning **DAA**, and **C++ DSA**  
+- 🧑‍💻 Exploring **Web Development** (HTML + CSS + JS)  
+- 🤝 Open to collaborate on beginner-friendly projects  
+
+---
+
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Vardhan-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/harsh-vardhan-b6a912325)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Harsh%20Vardhan-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/tIUkRMgUl5/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Harsh0717vj-black?logo=github&style=for-the-badge)](https://github.com/harsh0717vj)  
+
+---
+
+## 🧰 Tech Stack  
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 </p>
 
 ---
 
-## 📌 About Me
-- 🎓 **B.Tech CSE** student  
-- 💡 Passionate about **Web Development** & **Data Structures & Algorithms**  
-- 🛠 Currently working on **QuizApp** & mastering **React.js**  
-- 📚 Practicing problems on **LeetCode**  
-- 🎯 Goal: Build projects that make an impact
+## 📂 Featured Projects
+- 📘 [**DSA in C++ Repository**](https://github.com/harsh0717vj/DSA-in-Cpp) – My journey of mastering Data Structures & Algorithms  
+- 🌐 **Quiz Web App** – A simple 5-question quiz made in 2nd semester *(Repo coming soon)*  
 
 ---
 
-## 📊 My Stats
-
+## 📊 GitHub Stats & Streaks
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harsh0717vj&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh0717vj&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh0717vj&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh0717vj&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh0717vj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh0717vj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🏆 LeetCode Stats
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/harsh0717vj?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harsh0717vj&theme=gruvbox&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
 
-## 🚀 Skills
+## 📈 Contribution Graph
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=harsh0717vj&theme=react-dark&hide_border=true)
+
+---
+
+## 🧮 LeetCode Stats
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://leetcard.jacoblin.cool/tIUkRMgUl5?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
 
-## 📂 My Projects
-### 🔹 [QuizApp](https://github.com/harsh0717vj/QuizApp)
-A modern, responsive quiz app built with HTML, CSS, and JavaScript.
-
-### 🔹 [DSA in C++](https://github.com/harsh0717vj/DSA)
-Comprehensive solutions and explanations for Data Structures & Algorithms in C++.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Happy+Coding!+%F0%9F%99%8C;—+Harsh+Vardhan" alt="Typing SVG" />
+</h1>
 
 ---
 
-## 💬 Connect With Me
-<p align="center">
-  <a href="https://github.com/harsh0717vj">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://leetcode.com/harsh0717vj/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.linkedin.com/in/harsh-vardhan-7a3574326/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Code, learn, repeat — the grind never stops."</i>  
-  <br>
-  🌟 *Star my repositories if you find them useful!*
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=harsh0717vj&label=Profile+Views&color=0e75b6&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/harsh0717vj?label=Followers&style=flat&color=0e75b6)
+![GitHub Stars](https://img.shields.io/github/stars/harsh0717vj?affiliations=OWNER&label=Stars&style=flat&color=0e75b6)
