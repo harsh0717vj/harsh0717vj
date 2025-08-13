@@ -1,76 +1,59 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=👋+Hey+Folks!+I'm+Harsh+Vardhan;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=👋+Hey+folks!+I'm+Harsh+Vardhan;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </h1>
 
 ---
 
-## 🌟 About Me
-- 🎓 B.Tech CSE Student  
-- 💻 Passionate about **coding**, **problem-solving**, and **learning new technologies**  
-- 🌱 Currently mastering **Data Structures & Algorithms in C**, learning **DAA**, and **C++ DSA**  
-- 🧑‍💻 Exploring **Web Development** (HTML + CSS + JS)  
-- 🤝 Open to collaborate on beginner-friendly projects  
+##  About Me  
+-  **2nd-year B.Tech CSE student** exploring the world of programming  
+-  Currently diving deep into **DSA in C**, **DAA in C**, and **DSA in C++**  
+-  Exploring **web development** with HTML, CSS, and JavaScript  
+-  Aiming to build real-world projects and continuously level up skills  
 
 ---
 
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Vardhan-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/harsh-vardhan-b6a912325)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Harsh%20Vardhan-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/tIUkRMgUl5/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Harsh0717vj-black?logo=github&style=for-the-badge)](https://github.com/harsh0717vj)  
+##  Skills  
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-informational?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-(in-progress)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAA-Cyan?style=for-the-badge" />
+</div>
 
 ---
 
-## 🧰 Tech Stack  
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-</p>
+##  Projects
+- **[DSA in C++ Repository](https://github.com/harsh0717vj/DSA-in-Cpp)** — My journey through Data Structures & Algorithms in C++  
+- **[Quiz Web App](https://github.com/harsh0717vj/QuizApp)** — A simple web-based quiz with 5 questions, built using HTML, CSS, and JavaScript during my 2nd semester
 
 ---
 
-## 📂 Featured Projects
-- 📘 [**DSA in C++ Repository**](https://github.com/harsh0717vj/DSA-in-Cpp) – My journey of mastering Data Structures & Algorithms  
-- 🌐 **Quiz Web App** – A simple 5-question quiz made in 2nd semester *(Repo coming soon)*  
+##  GitHub Stats & Streaks  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh0717vj&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh0717vj&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-## 📊 GitHub Stats & Streaks
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh0717vj&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh0717vj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh0717vj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+##  Connect with Me  
+<div align="center">
+  <a href="https://github.com/harsh0717vj">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/harsh-vardhan-b6a912325">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/tIUkRMgUl5/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsh0717vj&theme=gruvbox&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
-
----
-
-## 📈 Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=harsh0717vj&theme=react-dark&hide_border=true)
-
----
-
-## 🧮 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/tIUkRMgUl5?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
----
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Happy+Coding!+%F0%9F%99%8C;—+Harsh+Vardhan" alt="Typing SVG" />
-</h1>
-
----
+> *“Consistency beats intensity. Keep building, keep pushing.”*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harsh0717vj&label=Profile+Views&color=0e75b6&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/harsh0717vj?label=Followers&style=flat&color=0e75b6)
-![GitHub Stars](https://img.shields.io/github/stars/harsh0717vj?affiliations=OWNER&label=Stars&style=flat&color=0e75b6)
