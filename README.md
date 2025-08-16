@@ -32,15 +32,26 @@
 ---
 
 ## 📂 Featured Projects
-- 📘 [**DSA in C++ Repository**](https://github.com/harsh0717vj/DSA-in-Cpp) – My journey of mastering Data Structures & Algorithms  
-- 🌐 **Quiz Web App** – A simple 5-question quiz made in 2nd semester *(Repo coming soon)*  
+- 📘 [**DSA in C++ Repository**](https://github.com/harsh0717vj/DSA-in-Cpp)  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+  *My journey of mastering Data Structures & Algorithms in C++*  
+
+- 🌐 [**Quiz Web App**](https://github.com/harsh0717vj/QuizApp)  
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+  *A simple quiz application with 5 questions built using HTML, CSS & JavaScript*  
+
+- 💡 [**Projects in C++**](https://github.com/harsh0717vj/Projects-in-cpp)  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+  *A collection of beginner-friendly C++ projects (Calculator, Patterns, etc.)*  
 
 ---
 
 ## 📊 GitHub Stats & Streaks
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh0717vj&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh0717vj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh0717vj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh0717vj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
