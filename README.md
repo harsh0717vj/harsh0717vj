@@ -14,9 +14,9 @@
 ---
 
 ##  ​ Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Vardhan-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/harsh-vardhan-b6a912325)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Harsh_Vardhan0717-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/Harsh_Vardhan0717/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Harsh0717vj-black?logo=github&style=for-the-badge)](https://github.com/harsh0717vj)  
+[![LinkedIn](https://img.shields.io/badge/-Harsh%20Vardhan-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-vardhan-b6a912325)  
+[![LeetCode](https://img.shields.io/badge/-Harsh_Vardhan0717-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harsh_Vardhan0717/)  
+[![GitHub](https://img.shields.io/badge/-Harsh0717vj-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harsh0717vj)  
 
 ---
 
