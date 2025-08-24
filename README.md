@@ -13,10 +13,12 @@
 
 ---
 
-##  ​ Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-Harsh%20Vardhan-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-vardhan-b6a912325)  
-[![LeetCode](https://img.shields.io/badge/-Harsh_Vardhan0717-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harsh_Vardhan0717/)  
-[![GitHub](https://img.shields.io/badge/-Harsh0717vj-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harsh0717vj)  
+
+### 🔗 Connect with me:
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harsh0717vj)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harsh_Vardhan0717/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-vardhan-7b0199330/)
+
 
 ---
 
