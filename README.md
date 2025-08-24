@@ -14,9 +14,7 @@
 ---
 
 ## ​ Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Vardhan-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/harsh-vardhan-b6a912325)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Harsh_Vardhan0717-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/Harsh_Vardhan0717/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Harsh0717vj-black?logo=github&style=for-the-badge)](https://github.com/harsh0717vj)  
+
 
 <p align="center">
 <a href="https://github.com/harsh0717vj" target="blank">
