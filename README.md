@@ -13,27 +13,21 @@
 
 ---
 
----
-
----
-
 ## ​ Connect With Me  
 
 <p align="center">
-<a href="https://github.com/harsh0717vj" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/u/Harsh_Vardhan0717/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/harsh-vardhan-b6a912325/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-</a>
+  <a href="https://github.com/harsh0717vj" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/Harsh_Vardhan0717/" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harsh-vardhan-b6a912325/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
-
-
 
 ## ​ Tech Stack  
 <p>
