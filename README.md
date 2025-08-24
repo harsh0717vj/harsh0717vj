@@ -4,7 +4,7 @@
 
 ---
 
-## ​ About Me  
+## ​ About Me
 - B.Tech CSE Student  
 - Passionate about **coding**, **problem-solving**, and **learning new technologies**  
 - Currently mastering **DSA in C**, learning **DAA**, and **DSA in C++**  
@@ -14,16 +14,20 @@
 ---
 
 ## ​ Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Vardhan-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/harsh-vardhan-b6a912325)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Harsh_Vardhan0717-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/Harsh_Vardhan0717/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Harsh0717vj-black?logo=github&style=for-the-badge)](https://github.com/harsh0717vj)  
+
 <p align="center">
-  <a href="https://github.com/harsh0717vj" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/Harsh_Vardhan0717/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/harsh-vardhan-b6a912325/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+<a href="https://github.com/harsh0717vj" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/u/Harsh_Vardhan0717/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/harsh-vardhan-b6a912325/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 </p>
 
 ---
@@ -39,7 +43,7 @@
 
 ---
 
-## Featured Projects  
+## Featured Projects
 - **[DSA in C++ Repository](https://github.com/harsh0717vj/DSA-in-Cpp)**  
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
   My journey of mastering Data Structures & Algorithms in C++
@@ -56,7 +60,7 @@
 
 ---
 
-## ​ GitHub Stats & Streaks  
+## ​ GitHub Stats & Streaks
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harsh0717vj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /><br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh0717vj&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br>
@@ -65,19 +69,19 @@
 
 ---
 
-## ​ GitHub Trophies  
+## ​ GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harsh0717vj&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 ---
 
-## ​ Contribution Graph  
+## ​ Contribution Graph
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=harsh0717vj&theme=react-dark&hide_border=true)
 
 ---
 
-## ​ LeetCode Stats  
+## ​ LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Harsh_Vardhan0717?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
