@@ -63,7 +63,7 @@
 ## ​ GitHub Stats & Streaks
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harsh0717vj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /><br><br>
-  <img src="https://streak-stats.demolab.com?user=harsh0717vj&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br>
+  <img src="https://streak-stats.demolab.com?user=harsh0717vj&theme=tokyonight&hide_border=true&cache_bust=1" alt="GitHub Streak" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh0717vj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -71,7 +71,7 @@
 
 ## ​ GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsh0717vj&theme=gruvbox&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harsh0717vj&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15&cache_bust=1" alt="Trophies" />
 </p>
 
 ---
