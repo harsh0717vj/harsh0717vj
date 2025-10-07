@@ -81,6 +81,15 @@
 
 ---
 
+## ​ GeeksforGeeks Stats
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/hcvardhxjsl/">
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=hcvardhxjsl&theme=dark" alt="GFG Stats" />
+  </a>
+</p>
+
+---
+
 ## ​ LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Harsh_Vardhan0717?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
