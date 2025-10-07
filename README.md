@@ -81,15 +81,6 @@
 
 ---
 
-## ​ GeeksforGeeks Stats
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/user/hcvardhxjsl/">
-    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=hcvardhxjsl&theme=dark" alt="GFG Stats" />
-  </a>
-</p>
-
----
-
 ## ​ LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Harsh_Vardhan0717?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
@@ -106,3 +97,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=harsh0717vj&label=Profile+Views&color=0e75b6&style=flat)  
 ![GitHub Followers](https://img.shields.io/github/followers/harsh0717vj?label=Followers&style=flat&color=0e75b6)  
 ![GitHub Stars](https://img.shields.io/github/stars/harsh0717vj?affiliations=OWNER&label=Stars&style=flat&color=0e75b6)
+This is my existing Readme file which is main file of my profile i want to also add my gfg section like leetcode section
+https://www.geeksforgeeks.org/user/hcvardhxjsl/ 
+my gfg account
